@@ -1,0 +1,1 @@
+\Delta X_L = \sqrt{\left( \frac{1}{I} \Delta U \right)^2 + \left( -\frac{U}{I^2} \Delta I \right)^2}
